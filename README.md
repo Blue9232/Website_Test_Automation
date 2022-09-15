@@ -1,4 +1,4 @@
-Proiectul "Open Any Website (automation).py" este un proiect ce automatizeaza deschiderea oricarui website folosind Selenium, Python si Geckodriver (Firefox browser engine)!
+Proiectul "Open Any Website (automation).py" este un program ce automatizeaza deschiderea oricarui website (ca exemplu in program am folosit emag.ro) folosind Selenium, Python si Geckodriver (Firefox browser engine)!
 
 Programul a fost scris in Pycharm IDE!
 
